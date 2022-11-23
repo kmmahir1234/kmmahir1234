@@ -2,7 +2,7 @@
 - 👀 I’m interested in economics
 - 🌱 I’m currently learning life
 - 💞️ I’m looking to collaborate on intersting solutions
-- 📫 How to reach me is very esay! just mail me. always online.
+- 📫 How to reach me is very easy! just mail me. always online.
 
 <!---
 kmmahir1234/kmmahir1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
